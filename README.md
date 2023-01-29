@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @tiff0000, currently a web3 engineer focused in NFT
-- 👀 I’m interested in Blockchain, metaverse, NFT
-- 🌱 I’m currently learning blockchain technologies (smart contract, truffle, gas optimization, security in blockchain)
-- 📫 How to reach me" tiffanyy.dev@gmail.com
+- 👋 Hi, I’m Tiffany, 
+- 👀 Currently building in web3
 
 <!---
 tiff0000/tiff0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
