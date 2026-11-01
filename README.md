@@ -10,7 +10,7 @@ My work spans agent orchestration, structured extraction, retrieval, MCP tools, 
 
 <img src="assets/agent-workflow.gif" alt="Conceptual agent workflow: intent, schema validation, state check, human confirmation, and allowed action." width="960" />
 
-In my Snowza booking workflow, models interpret intent; explicit state and transaction checks control booking. A person confirms before the action runs.
+In my booking app workflow, models interpret intent; explicit state and transaction checks control booking. A person confirms before the action runs.
 
 ### Context before answers
 
