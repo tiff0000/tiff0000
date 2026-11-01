@@ -6,8 +6,6 @@ I build AI-powered products with clear workflows, grounded answers, and human co
 
 My work spans agent orchestration, structured extraction, retrieval, MCP tools, and evaluation — alongside the full-stack engineering that makes a product usable.
 
-[Explore Snowza](https://snowza.vercel.app) · [GitHub](https://github.com/tiff0000)
-
 ### From intent to action
 
 <img src="assets/agent-workflow.gif" alt="Conceptual agent workflow: intent, schema validation, state check, human confirmation, and allowed action." width="960" />
@@ -20,7 +18,7 @@ In my Snowza booking workflow, models interpret intent; explicit state and trans
 
 I work on retrieval, bilingual extraction, and evaluation, using observed failures to guide improvements.
 
-**Tools I work with:** TypeScript · Python · React · NestJS · PostgreSQL · LangGraph · OpenAI Agents SDK · MCP · XState
+**Tools I work with:** TypeScript ·  React · NestJS · Python · PostgreSQL · LangGraph · OpenAI Agents SDK · MCP
 
 ### A little motion
 
