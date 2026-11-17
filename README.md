@@ -10,15 +10,7 @@ I build AI-agent products.
 
 In my booking app workflow, models interpret intent; explicit state and transaction checks control booking. A person confirms before the action runs.
 
-### Context before answers
-
-<img src="assets/retrieval.gif" alt="Conceptual retrieval animation showing documents flowing into retrieval and then a grounded response." width="960" />
-
-I work on retrieval, bilingual extraction, and evaluation, using observed failures to guide improvements.
-
 **Tools I work with:** TypeScript ·  React · NestJS · Python · PostgreSQL · LangChain · LangGraph · OpenAI Agents SDK ·
-
-### A little motion
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Austin5925/Austin5925/output/github-contribution-grid-snake-dark.svg">
