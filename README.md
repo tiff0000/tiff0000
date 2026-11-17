@@ -8,8 +8,6 @@ I build AI-agent products.
 
 <img src="assets/agent-workflow.gif" alt="Conceptual agent workflow: intent, schema validation, state check, human confirmation, and allowed action." width="960" />
 
-In my booking app workflow, models interpret intent; explicit state and transaction checks control booking. A person confirms before the action runs.
-
 **Tools I work with:** TypeScript ·  React · NestJS · Python · PostgreSQL · LangChain · LangGraph · OpenAI Agents SDK ·
 
 <picture>
