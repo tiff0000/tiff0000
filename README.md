@@ -2,9 +2,7 @@
   <img src="assets/banner.gif" alt="Tiffany Yang — AI engineer and full-stack builder. Animated neural network beside a typing introduction." width="960" />
 </p>
 
-I build AI-powered products with clear workflows, grounded answers, and human control.
-
-My work spans agent orchestration, structured extraction, retrieval, MCP tools, and evaluation — alongside the full-stack engineering that makes a product usable.
+I build AI-agent products.
 
 ### From intent to action
 
@@ -18,7 +16,7 @@ In my booking app workflow, models interpret intent; explicit state and transact
 
 I work on retrieval, bilingual extraction, and evaluation, using observed failures to guide improvements.
 
-**Tools I work with:** TypeScript ·  React · NestJS · Python · PostgreSQL · LangGraph · OpenAI Agents SDK · MCP
+**Tools I work with:** TypeScript ·  React · NestJS · Python · PostgreSQL · LangChain · LangGraph · OpenAI Agents SDK ·
 
 ### A little motion
 
